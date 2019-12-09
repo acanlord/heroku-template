@@ -1,6 +1,5 @@
 from django.apps import AppConfig
 
 
-class AccountsConfig(AppConfig):
-    name = 'accounts'
+class NewsoundsConfig(AppConfig):
     name = 'newsounds'
